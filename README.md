@@ -199,7 +199,7 @@ Dataset includes multiple crops and disease classes such as:
 
 #  Author
 
-**Murugaraj V. Raj**
+**Murugaraj V.**
 
 B.Tech – Information Technology
 
@@ -207,7 +207,7 @@ B.Tech – Information Technology
 
 # License
 
-This project is intended for educational and research purposes. You are free to use, modify, and improve it with appropriate attribution.
+This project is intended for educational and research purposes. MIT License.
 
 ---
 
